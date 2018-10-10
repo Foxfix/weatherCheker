@@ -1,4 +1,4 @@
-# whetherCheker
+# weatherCheker
 Small app for check weather. Was used only javascript without any framework
 
 It uses api https://www.wunderground.com/
